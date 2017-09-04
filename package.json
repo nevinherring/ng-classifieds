@@ -1,0 +1,19 @@
+{
+  "name": "ng-classifieds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevinherring/ng-classifieds.git"
+  },
+  "author": "Nevin (from a class)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevinherring/ng-classifieds/issues"
+  },
+  "homepage": "https://github.com/nevinherring/ng-classifieds#readme"
+}
